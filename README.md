@@ -78,7 +78,6 @@ interests:
 </div>
 
 ---
----
 
 ## ⚙️ Tech Stack
 
