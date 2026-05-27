@@ -116,18 +116,6 @@ fn fyodor() {
 </div>
 
 
-
----
-
-
-## 🕯️ Closing Words
-
-<div align="center">
-
-### *"Your worst sin is that you have destroyed and betrayed yourself for nothing."*
-
-</div>
-
 ---
 
 <div align="center">
